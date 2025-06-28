@@ -28,7 +28,7 @@ export default function RootLayout({
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
 
-              gtag('config', 'G-DENFF29MR0');
+              gtag('config', 'G-RH9CEDFXNY');
             `,
           }}
         />
@@ -37,7 +37,7 @@ export default function RootLayout({
         <script
           dangerouslySetInnerHTML={{
             __html: `
-              window.pixelId = "683e4507be02a8b1bece6041";
+              window.pixelId = "684d9d4e8269d3f6a3ad04cb";
               var a = document.createElement("script");
               a.setAttribute("async", "");
               a.setAttribute("defer", "");
